@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">imagequiz</string>
+    <string name="question1">Which of the following block can be inserted in the image below?</string>
+</resources>
